@@ -61,6 +61,7 @@ Each project focuses on real-world system administration, monitoring, and automa
 
 ## Repository Structure
 
+```text
 linux-mini-projects/
 ├── log-monitoring/
 │   ├── log_monitor.sh
@@ -72,6 +73,7 @@ linux-mini-projects/
 │   ├── disk_usage.sh
 │   └── README.md
 └── README.md
+```
 
 ## Learning Goals
 - Build strong Linux fundamentals
